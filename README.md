@@ -31,9 +31,9 @@ I was primarily responsible for the **graphics rendering and main program struct
 ## 遊戲畫面 (Screenshots)
 
 **初始畫面:**
-![Start Screen](<img width="510" height="438" alt="image" src="https://github.com/user-attachments/assets/1d270539-b4fb-46d7-b60a-d5666a9f946c" />
-)
+![Start Screen](<<img width="510" height="438" alt="image" src="https://github.com/user-attachments/assets/1d270539-b4fb-46d7-b60a-d5666a9f946c" />
+>)
 
 **遊戲中畫面:**
-![Gameplay Screen](<img width="508" height="431" alt="image" src="https://github.com/user-attachments/assets/aed3f7fa-2744-4a59-8a89-2341b93179c2" />
-)
+![Gameplay Screen](<<img width="508" height="431" alt="image" src="https://github.com/user-attachments/assets/aed3f7fa-2744-4a59-8a89-2341b93179c2" />
+>)
